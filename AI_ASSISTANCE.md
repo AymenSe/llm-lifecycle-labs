@@ -19,3 +19,4 @@ Every commit carries one line: `AI-Assisted: <level>[, <level>]`, e.g. `AI-Assis
 | Date | Lab | Artifact (file / PR) | Level | What the AI contributed | What I did & how I verified |
 |---|---|---|---|---|---|
 | 2026-10-21 | all | `docs/ROADMAP.md`, `labs/lab00-setup/README.md`, `STATUS.md`, this file | scaffold | Curriculum design and lab instructions | Reviewed; adapting as the project evolves |
+| 2026-10-22 | 0 | `docs/decisions/0001-stack.md`, REPORT answer on `explicit` | generated | Wrote ADR text and explanation | Read and verified against my server facts (driver 560 / CUDA 12.6) |
