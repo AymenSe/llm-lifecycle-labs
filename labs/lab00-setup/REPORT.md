@@ -1,0 +1,2 @@
+asekhri@XLIM-TESLA3:~/Aymen_2027/study/llm/llm-lifecycle-labs$ uv run python -c "import torch; print(torch.__version__, torch.version.cuda, torch.cuda.is_available(), torch.cuda.get_device_capability(0), torch.cuda.is_bf16_supported())"
+2.13.0+cu126 12.6 True (8, 0) True
